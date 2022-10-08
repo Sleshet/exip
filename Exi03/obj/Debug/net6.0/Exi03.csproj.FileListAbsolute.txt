@@ -1,0 +1,8 @@
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.csproj.AssemblyReference.cache
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.AssemblyInfoInputs.cache
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.AssemblyInfo.cs
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.csproj.CoreCompileInputs.cache
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.dll
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\refint\Exi03.dll
+Z:\Б720\Геометрия\Exip\Exi03\obj\Debug\net6.0\Exi03.pdb
